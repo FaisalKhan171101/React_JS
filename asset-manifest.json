@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Assignment1-VAC-Faisal-Khan/static/css/main.456bdc41.chunk.css",
+    "main.js": "/Assignment1-VAC-Faisal-Khan/static/js/main.ded64980.chunk.js",
+    "main.js.map": "/Assignment1-VAC-Faisal-Khan/static/js/main.ded64980.chunk.js.map",
+    "runtime-main.js": "/Assignment1-VAC-Faisal-Khan/static/js/runtime-main.31877cad.js",
+    "runtime-main.js.map": "/Assignment1-VAC-Faisal-Khan/static/js/runtime-main.31877cad.js.map",
+    "static/js/2.77ba5d01.chunk.js": "/Assignment1-VAC-Faisal-Khan/static/js/2.77ba5d01.chunk.js",
+    "static/js/2.77ba5d01.chunk.js.map": "/Assignment1-VAC-Faisal-Khan/static/js/2.77ba5d01.chunk.js.map",
+    "static/js/3.f614a325.chunk.js": "/Assignment1-VAC-Faisal-Khan/static/js/3.f614a325.chunk.js",
+    "static/js/3.f614a325.chunk.js.map": "/Assignment1-VAC-Faisal-Khan/static/js/3.f614a325.chunk.js.map",
+    "index.html": "/Assignment1-VAC-Faisal-Khan/index.html",
+    "static/css/main.456bdc41.chunk.css.map": "/Assignment1-VAC-Faisal-Khan/static/css/main.456bdc41.chunk.css.map",
+    "static/js/2.77ba5d01.chunk.js.LICENSE.txt": "/Assignment1-VAC-Faisal-Khan/static/js/2.77ba5d01.chunk.js.LICENSE.txt",
+    "static/media/Profimg.bf011f69.jpeg": "/Assignment1-VAC-Faisal-Khan/static/media/Profimg.bf011f69.jpeg",
+    "static/media/Proimg.ee3db592.jpeg": "/Assignment1-VAC-Faisal-Khan/static/media/Proimg.ee3db592.jpeg",
+    "static/media/bgimg.636b2b39.jpg": "/Assignment1-VAC-Faisal-Khan/static/media/bgimg.636b2b39.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31877cad.js",
+    "static/js/2.77ba5d01.chunk.js",
+    "static/css/main.456bdc41.chunk.css",
+    "static/js/main.ded64980.chunk.js"
+  ]
+}
